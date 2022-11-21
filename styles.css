@@ -16,3 +16,9 @@ h1 {
     font-family:'Rubik Distressed', cursive;
     text-align: center;
 }
+
+p {
+    font-family: 'Permanent Marker' , cursive;
+    color:rgb(38, 165, 141);
+    font-weight: bolder;
+}
