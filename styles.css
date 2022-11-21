@@ -22,3 +22,15 @@ p {
     color:rgb(38, 165, 141);
     font-weight: bolder;
 }
+
+.container {
+    border-style: groove;
+    display: flex;
+    align-items: left;
+    justify-content: right;
+    border-style: groove;
+    border-color: burlywood;
+    margin:50px;
+    opacity: 600;
+    
+}
