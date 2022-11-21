@@ -8,3 +8,11 @@ body {
     height:100%;
     
 }
+
+h1 {
+    color: darkgrey;
+    font-size: 60px;
+    font-style: oblique;
+    font-family:'Rubik Distressed', cursive;
+    text-align: center;
+}
